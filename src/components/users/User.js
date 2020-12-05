@@ -32,9 +32,9 @@ const User = () => {
         <li className="list-group-item">user name: {user.username}</li>
         <li className="list-group-item">email: {user.email}</li>
         <li className="list-group-item">phone: {user.phone}</li>
-        <li className="list-group-item">Agent 1: {user.Agent_1}</li>
-        <li className="list-group-item">Agent 2: {user.Agent_2}</li>
-        <li className="list-group-item">Agent 3: {user.Agent_3}</li>
+        <li className="list-group-item">Agency 1: {user.Agent_1}</li>
+        <li className="list-group-item">Agency 2: {user.Agent_2}</li>
+        <li className="list-group-item">Agency 3: {user.Agent_3}</li>
 
       </ul>
     </div>

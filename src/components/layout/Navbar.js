@@ -5,7 +5,7 @@ const Navbar = () => {
     <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
       <div className="container">
         <Link className="navbar-brand" href="/">
-          Recat User
+          HTI Labs
         </Link>
         <button
           className="navbar-toggler"
@@ -31,11 +31,11 @@ const Navbar = () => {
                 About
               </NavLink>
             </li>
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <NavLink className="nav-link" exact to="/contact">
                 Contact
               </NavLink>
-            </li>
+            </li> */}
           </ul>
         </div>
 

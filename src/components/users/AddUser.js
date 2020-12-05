@@ -76,7 +76,7 @@ const AddUser = () => {
             <input
               type="text"
               className="form-control form-control-lg"
-              placeholder="Enter Your Agent 1"
+              placeholder="Enter Your Agency  1"
               name="Agent_1"
               value={Agent_1}
               onChange={e => onInputChange(e)}
@@ -86,7 +86,7 @@ const AddUser = () => {
             <input
               type="text"
               className="form-control form-control-lg"
-              placeholder="Enter Your Agent 2"
+              placeholder="Enter Your Agency  2"
               name="Agent_2"
               value={Agent_2}
               onChange={e => onInputChange(e)}
@@ -96,7 +96,7 @@ const AddUser = () => {
             <input
               type="text"
               className="form-control form-control-lg"
-              placeholder="Enter Your Agent 3"
+              placeholder="Enter Your Agency 3"
               name="Agent_3"
               value={Agent_3}
               onChange={e => onInputChange(e)}

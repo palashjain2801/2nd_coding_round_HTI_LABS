@@ -30,9 +30,9 @@ const Home = () => {
               <th scope="col">Name</th>
               <th scope="col">User Name</th>
               <th scope="col">Email</th>
-              <th scope="col">Agent 1</th>
-              <th scope="col">Agent 2</th>
-              <th scope="col">Agent 3</th>
+              <th scope="col">Agency 1</th>
+              <th scope="col">Agency 2</th>
+              <th scope="col">Agency 3</th>
 
 
 

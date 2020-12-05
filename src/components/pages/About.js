@@ -4,21 +4,13 @@ const About = () => {
   return (
     <div className="container">
       <div className="py-4">
-        <h1>About Page</h1>
+        <h1>About coding Round</h1>
         <p className="lead">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque rerum
-          hic ab veniam reiciendis cum repudiandae, voluptate explicabo nesciunt
-          nam accusantium? Soluta cupiditate, accusamus commodi praesentium
-          laborum dolorum libero maiores!
+        1. Some degree of state management for the case/agency data. This can be an implementation of any CRUD operation - whichever operation you choose is fine (keep in mind that "Read" is already implemented, so that may not be the best choice).
+2. Updated styling/UX. Previously, you only had an hour to implement a brand new codebase that displayed the agency list. Now, you are given a bit more time to build upon your current codebase.
         </p>
 
-        <p className="lead">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque rerum
-          hic ab veniam reiciendis cum repudiandae, voluptate explicabo nesciunt
-          nam accusantium? Soluta cupiditate, accusamus commodi praesentium
-          laborum dolorum libero maiores!
-        </p>
-        <p className="lead">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque rerum hic ab veniam reiciendis cum repudiandae, voluptate explicabo nesciunt nam accusantium? Soluta cupiditate, accusamus commodi praesentium laborum dolorum libero maiores!</p>
+        
       </div>
     </div>
   );
