@@ -41,5 +41,5 @@ Please use `npm run start:dev ` to run the project as two servers are running at
 ![Home2](https://github.com/palashjain2801/2nd_coding_round_HTI_LABS/blob/main/Screenshots/home2.PNG)
 
 ### Negative Test Case
-
+When you provide wrong URL extension
 ![negetive](https://github.com/palashjain2801/2nd_coding_round_HTI_LABS/blob/main/Screenshots/negetive_test_case.PNG)
