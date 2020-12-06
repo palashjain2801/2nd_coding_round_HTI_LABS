@@ -17,7 +17,7 @@ Please use ```npm run start:dev ``` to run the project as two servers are runnin
 
 ## CRUD Operations
 ### Create 
-
+![Create](https://github.com/palashjain2801/2nd_coding_round_HTI_LABS/blob/main/Screenshots/Home.PNG)
 ### Update
 
 ### Read
