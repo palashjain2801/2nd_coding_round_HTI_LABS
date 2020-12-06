@@ -1,6 +1,6 @@
 # HTI Labs
 
-This assessment is demonstrating CRUD (Create, Update, Read and Delete) Operation. This assessment is given by HTL Labs 
+This assessment is demonstrating CRUD (Create, Update, Read and Delete) Operation. This assessment is given by HTL Labs
 
 ## Installation and Running Project
 
@@ -13,18 +13,33 @@ npm install
 npm run start:dev
 ```
 
-Please use ```npm run start:dev ``` to run the project as two servers are running at port 3000 and 3003
+Please use `npm run start:dev ` to run the project as two servers are running at port 3000 and 3003
 
 ## CRUD Operations
-### Create 
-![Create](https://github.com/palashjain2801/2nd_coding_round_HTI_LABS/blob/main/Screenshots/Home.PNG)
+
+### Create
+
+![add](https://github.com/palashjain2801/2nd_coding_round_HTI_LABS/blob/main/Screenshots/add.PNG)
+
 ### Update
+
+![edit](https://github.com/palashjain2801/2nd_coding_round_HTI_LABS/blob/main/Screenshots/edit.PNG)
 
 ### Read
 
+![view](https://github.com/palashjain2801/2nd_coding_round_HTI_LABS/blob/main/Screenshots/view.PNG)
+
 ### Delete
 
+![delete](https://github.com/palashjain2801/2nd_coding_round_HTI_LABS/blob/main/Screenshots/delete.PNG)
 
-### Negative Test Case 
+### Other Operations
 
+### Home Page
 
+![Home](https://github.com/palashjain2801/2nd_coding_round_HTI_LABS/blob/main/Screenshots/Home.PNG)
+![Home2](https://github.com/palashjain2801/2nd_coding_round_HTI_LABS/blob/main/Screenshots/home2.PNG)
+
+### Negative Test Case
+
+![negetive](https://github.com/palashjain2801/2nd_coding_round_HTI_LABS/blob/main/Screenshots/negetive_test_case.PNG)
